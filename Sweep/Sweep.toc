@@ -1,0 +1,7 @@
+## Interface: 1600
+## Title: Sweep
+## Notes: A minesweeper clone
+## Author: Vallerius
+## Version: 1.0
+
+Sweep.xml

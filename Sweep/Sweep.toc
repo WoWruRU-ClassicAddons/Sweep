@@ -1,6 +1,7 @@
 ## Interface: 1600
 ## Title: Sweep
 ## Notes: A minesweeper clone
+## Notes-ruRU: Мини-игра сапер
 ## Author: Vallerius
 ## Version: 1.0
 
